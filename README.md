@@ -4,7 +4,9 @@
 ## Data Visualization with Matplot and Seaborn.  
 ### Quantitative:
 1.Kernel Density plot
+
 2.Histogram
+
 3.Box plot
 ### Categorical:
 Pie chart
