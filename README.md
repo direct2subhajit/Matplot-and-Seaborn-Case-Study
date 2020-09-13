@@ -1,4 +1,7 @@
 # Matplot-and-Seaborn-Case-Study
+
+
+![picture alt](https://matplotlib.org/_static/logo2_compressed.svg)
 # To preview html file go to https://htmlpreview.github.io/ and paste the gihub repository html file link.
 
 ## Data Visualization with Matplot and Seaborn.  
